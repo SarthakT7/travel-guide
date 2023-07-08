@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-travelguide-dev-223822-authRole",
+      "UnauthRoleArn": "arn:aws:iam::365849846905:role/amplify-travelguide-dev-223822-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::365849846905:role/amplify-travelguide-dev-223822-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-travelguide-dev-223822-deployment",
+      "UnauthRoleName": "amplify-travelguide-dev-223822-unauthRole",
+      "StackName": "amplify-travelguide-dev-223822",
+      "StackId": "arn:aws:cloudformation:eu-north-1:365849846905:stack/amplify-travelguide-dev-223822/0cff5bb0-1db2-11ee-b919-0a55d6617974",
+      "AmplifyAppId": "dfldkvvv9y3q4"
+    }
+  }
+}
